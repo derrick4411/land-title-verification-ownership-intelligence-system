@@ -1,1 +1,1 @@
-# land-title-verification-ownership-intelligence-system
+Project ideas Fraud / double-registration detection, land-value (price) prediction, entity resolution of owners, title-number standardisation, geocoding validation & boundary-overlap checks, dispute prediction, rates-arrears / revenue-leakage analysis, stamp-duty under-declaration, ownership network graphs, digitisation-quality scoring, flood-risk exposure mapping.# land-title-verification-ownership-intelligence-system
